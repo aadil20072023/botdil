@@ -107,7 +107,7 @@ async function connectToWA() {
 
       const up = `test-MD connected ✅\n\nPREFIX: ${prefix}`;
       await test.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/testwpbot/test12/blob/main/images/Danuwa%20-%20MD.png?raw=true` },
+        image: { url: `https://github.com/aadil20072023/botdil/blob/main/images/welcome_dilbot.png?raw=true` },
         caption: up
       });
 
